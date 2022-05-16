@@ -1,0 +1,11 @@
+{
+  "name": "frontend-article-preview-component-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch public/main.scss:style/style.css"
+  },
+  "author": "Peally",
+  "license": "ISC"
+}
